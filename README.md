@@ -1,1 +1,2 @@
-# IS601-F2F-F21
+# HELLO IS601 FALL 2021 CLASS :)
+## This is the introduction to GIT Source Code Management! 
